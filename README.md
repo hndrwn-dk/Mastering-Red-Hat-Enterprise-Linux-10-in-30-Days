@@ -8,7 +8,7 @@
 
 ## 📚 **Get the Complete Ebook**
 
-### **🛒 [Download Now on Etsy →](https://www.etsy.com/sg-en/listing/4327232777/mastering-redhat-linux-10-in-30-days)**
+### **🛒 [Download Full on Gumroad →](https://288416582122.gumroad.com/l/qvusqq)**
 
 ---
 
@@ -89,7 +89,7 @@ promotional-materials/
 
 ## 🚀 **Instant Download**
 
-**🛒 [Get Your Copy on Etsy →](https://www.etsy.com/sg-en/listing/4327232777/mastering-redhat-linux-10-in-30-days)**
+**🛒 [Get Your Copy on Gumroad →](https://288416582122.gumroad.com/l/qvusqq)**
 
 ### **What You Get:**
 - **Complete 500+ page ebook** in PDF format
@@ -109,7 +109,7 @@ promotional-materials/
 ## 📄 **About**
 
 **Author:** Hendrawan  
-**Platform:** Etsy Digital Downloads  
+**Platform:** Gumroad Digital Downloads  
 **License:** Educational use  
 
 *Red Hat and RHEL are trademarks of Red Hat, Inc. This content is not affiliated with or endorsed by Red Hat, Inc.*
@@ -120,7 +120,7 @@ promotional-materials/
 
 If you find these promotional materials valuable, please star this repository!
 
-**[⭐ Star this repo](https://github.com/hndrwn-dk/rhel10-ebook-promotion)** | **[📚 Get the Ebook](https://www.etsy.com/sg-en/listing/4327232777/mastering-redhat-linux-10-in-30-days)** | **[🔗 Share on LinkedIn](https://linkedin.com)**
+**[⭐ Star this repo](https://github.com/hndrwn-dk/rhel10-ebook-promotion)** | **[📚 Get the Ebook](https://288416582122.gumroad.com/l/qvusqq)** | **[🔗 Share on LinkedIn](https://linkedin.com)**
 
 ---
 
